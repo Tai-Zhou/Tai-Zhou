@@ -29,12 +29,13 @@
 * **[Stats](https://github.com/exelban/stats)**: macOS system monitor in your menu bar.
 * **[Hidden Bar](https://github.com/dwarvesf/hidden)**: An ultra-light MacOS utility that helps hide menu bar icons.
 * **[aria2](https://github.com/aria2/aria2)**: aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+* **[SwitchHosts](https://github.com/oldj/SwitchHosts)**: SwitchHosts is an App for managing hosts file, it is based on Electron , React, UmiJS , Chakra UI, CodeMirror, etc.
 * **[IINA](https://github.com/iina/iina)**: The modern video player for macOS.
 
 ### Academy
 
 * **[Zotero](https://github.com/zotero/zotero)**: Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.
-* **MacTeX**: TeX Live is intended to be a straightforward way to get up and running with the TeX document production system.
+* **[MacTeX](https://www.tug.org/mactex)**: TeX Live is intended to be a straightforward way to get up and running with the TeX document production system.
 
 ### Programming
 
