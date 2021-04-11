@@ -31,6 +31,7 @@
 * **[aria2](https://github.com/aria2/aria2)**: aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 * **[SwitchHosts](https://github.com/oldj/SwitchHosts)**: SwitchHosts is an App for managing hosts file, it is based on Electron , React, UmiJS , Chakra UI, CodeMirror, etc.
 * **[IINA](https://github.com/iina/iina)**: The modern video player for macOS.
+* **[MonitorControl](https://github.com/MonitorControl/MonitorControl)**: Control your external monitor brightness, contrast or volume directly from a menulet or with keyboard native keys.
 
 ### Academy
 
