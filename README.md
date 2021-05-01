@@ -1,22 +1,12 @@
 ## 👋 Hi I'm Tai Zhou
 
-* 👨🏻‍🎓 I’m currently studying Astrophysics 🔭
-* 👨🏻‍💻 I’m currently working on [Astrolator](https://github.com/Tai-Zhou/astrolator) (a WeChat mini-program)
-* 🤔 I’m struggling on Leetcode and Coursera
-* 🧐 I'm a newbie on [vim](https://github.com/vim/vim).
+* 👨🏻‍🎓 Studying Astrophysics 🔭
+* 👨🏻‍💻 Currently working on a project not yet ready for publishing.
+* 🧐 A VS Code extension in progress (`mkdir` finished).
 
-## Languages
+[![Tai's GitHub stats](https://github-readme-stats.vercel.app/api?username=tai-zhou&hide_title=true&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/Tai-Zhou)
 
-* Chinese: ★★★★★
-* English: ★★★☆
-* C/C++: ★★★
-* Python: ★★☆
-* Japanese: ★★
-* CSS: ★☆
-* HTML: ★☆
-* MATLAB: ★☆
-* JavaScript: ★
-* ASCII: ☆
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tai-zhou)](https://github.com/Tai-Zhou)
 
 ## Tools
 ### Hardware
@@ -30,8 +20,8 @@
 * **[Hidden Bar](https://github.com/dwarvesf/hidden)**: An ultra-light MacOS utility that helps hide menu bar icons.
 * **[aria2](https://github.com/aria2/aria2)**: aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 * **[SwitchHosts](https://github.com/oldj/SwitchHosts)**: SwitchHosts is an App for managing hosts file, it is based on Electron , React, UmiJS , Chakra UI, CodeMirror, etc.
-* **[IINA](https://github.com/iina/iina)**: The modern video player for macOS.
 * **[Lunar](https://github.com/alin23/Lunar)**: Intelligent adaptive brightness for your external display.
+* **[IINA](https://github.com/iina/iina)**: The modern video player for macOS.
 
 ### Academy
 
@@ -44,6 +34,11 @@
 * **[Pandoc](https://github.com/jgm/pandoc)**: Universal markup converter.
 * **[Node.js](https://github.com/nodejs/node)**: Node.js JavaScript runtime ✨🐢🚀✨
 * **[Homebridge](https://github.com/homebridge/homebridge)**: HomeKit support for the impatient.
+
+#### C/C++
+
+* **[CMake](https://github.com/Kitware/CMake)**: CMake is a cross-platform, open-source build system generator.
+* **[GSL](https://www.gnu.org/software/gsl/)**: The GNU Scientific Library (GSL) is a numerical library for C and C++ programmers.
 
 #### Python
 
