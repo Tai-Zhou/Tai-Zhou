@@ -6,7 +6,7 @@
 
 [![Tai's GitHub stats](https://github-readme-stats.vercel.app/api?username=tai-zhou&hide_title=true&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/Tai-Zhou)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tai-zhou)](https://github.com/Tai-Zhou)
+[![Tai's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tai&layout=compact)](https://wakatime.com/@tai)
 
 ## Tools
 ### Hardware
