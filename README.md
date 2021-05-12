@@ -8,10 +8,16 @@
 
 [![Tai's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tai&layout=compact)](https://wakatime.com/@tai)
 
+
 ## Tools
+
+<details>
+  <summary>Show Tools</summary>
+
 ### Hardware
 
 * **MacBook Pro (13-inch, 2019)**
+
 
 ### System
 
@@ -55,6 +61,8 @@
 * **[Source Han Sans](https://github.com/adobe-fonts/source-han-sans)**: Source Han Sans is a set of OpenType/CFF Pan-CJK fonts.
 * **[Source Han Serif](https://github.com/adobe-fonts/source-han-serif)**: Source Han Serif is a set of OpenType/CFF Pan-CJK fonts.
 * **[Cascadia Code](https://github.com/microsoft/cascadia-code)**: This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
+
+</details>
 
 <!--
 **Tai-Zhou/Tai-Zhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
