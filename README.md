@@ -1,5 +1,7 @@
 ## 👋 Hi I'm Tai Zhou
 
+[![wakatime](https://wakatime.com/badge/user/9d0cf55e-5b6e-4078-b307-e95402afaf95.svg)](https://wakatime.com/@9d0cf55e-5b6e-4078-b307-e95402afaf95)
+
 * 👨🏻‍🎓 Studying Astrophysics 🔭
 * 👨🏻‍💻 Currently working on a project not yet ready for publishing.
 * 🧐 A Userscript for [arXiv](https://arxiv.org) in progress (`mkdir` finished).
