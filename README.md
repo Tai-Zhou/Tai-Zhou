@@ -4,7 +4,7 @@
 
 * 👨🏻‍🎓 Studying Astrophysics 🔭
 * 👨🏻‍💻 Currently working on a project not yet ready for publishing.
-* 🧐 A Userscript for [arXiv](https://arxiv.org) in progress (`mkdir` finished).
+* 🧐 A userscript for [arXiv](https://arxiv.org) in progress (`mkdir` finished).
 
 [![Tai's GitHub stats](https://github-readme-stats.vercel.app/api?username=tai-zhou&hide_title=true&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/Tai-Zhou)
 
@@ -25,12 +25,10 @@
 
 * **[Home Assistant](https://github.com/home-assistant/core)**: 🏡 Open source home automation that puts local control and privacy first.
   * **[Xiaomi MIoT for Home Assistant](https://github.com/ha0y/xiaomi_miot_raw)**: Universal Xiaomi MIoT integration for Home Assistant.
-
-#### Fonts
-
-* **[Source Han Sans](https://github.com/adobe-fonts/source-han-sans)**: Source Han Sans is a set of OpenType/CFF Pan-CJK fonts.
-* **[Source Han Serif](https://github.com/adobe-fonts/source-han-serif)**: Source Han Serif is a set of OpenType/CFF Pan-CJK fonts.
-* **[Cascadia Code](https://github.com/microsoft/cascadia-code)**: This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
+* **Fonts**
+  * **[Source Han Sans](https://github.com/adobe-fonts/source-han-sans)**: Source Han Sans is a set of OpenType/CFF Pan-CJK fonts.
+  * **[Source Han Serif](https://github.com/adobe-fonts/source-han-serif)**: Source Han Serif is a set of OpenType/CFF Pan-CJK fonts.
+  * **[Cascadia Code](https://github.com/microsoft/cascadia-code)**: This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 
 ### System
 
@@ -56,22 +54,18 @@
 * **[VS Code](https://github.com/microsoft/vscode)**: Free. Built on open source. Runs everywhere.
 * **[Pandoc](https://github.com/jgm/pandoc)**: Universal markup converter.
 * **[Node.js](https://github.com/nodejs/node)**: Node.js JavaScript runtime ✨🐢🚀✨
-
-#### C/C++
-
-* **[CMake](https://github.com/Kitware/CMake)**: CMake is a cross-platform, open-source build system generator.
-* **[GSL](https://www.gnu.org/software/gsl/)**: The GNU Scientific Library (GSL) is a numerical library for C and C++ programmers.
-
-#### Python
-
-* **[pip](https://github.com/pypa/pip)**: The Python package installer.
-* **[Jupyter Notebook](https://github.com/jupyter/notebook)**: Jupyter Interactive Notebook.
-* **[JupyterLab](https://github.com/jupyterlab/jupyterlab)**: JupyterLab computational environment.
-* **[NumPy](https://github.com/numpy/numpy)**: The fundamental package for scientific computing with Python.
-* **[plotly.py](https://github.com/plotly/plotly.py)**: The interactive graphing library for Python (includes Plotly Express) ✨
-* **[matplotlib](https://github.com/matplotlib/matplotlib)**: plotting with Python.
-* **[Astropy](https://github.com/astropy/astropy)**: Repository for the Astropy core package.
-* **[Manim](https://github.com/3b1b/manim)**: Animation engine for explanatory math videos.
+* **C/C++**
+  * **[CMake](https://github.com/Kitware/CMake)**: CMake is a cross-platform, open-source build system generator.
+  * **[GSL](https://www.gnu.org/software/gsl/)**: The GNU Scientific Library (GSL) is a numerical library for C and C++ programmers.
+* **Python**
+  * **[pip](https://github.com/pypa/pip)**: The Python package installer.
+  * **[Jupyter Notebook](https://github.com/jupyter/notebook)**: Jupyter Interactive Notebook.
+  * **[JupyterLab](https://github.com/jupyterlab/jupyterlab)**: JupyterLab computational environment.
+  * **[NumPy](https://github.com/numpy/numpy)**: The fundamental package for scientific computing with Python.
+  * **[plotly.py](https://github.com/plotly/plotly.py)**: The interactive graphing library for Python (includes Plotly Express) ✨
+  * **[matplotlib](https://github.com/matplotlib/matplotlib)**: plotting with Python.
+  * **[Astropy](https://github.com/astropy/astropy)**: Repository for the Astropy core package.
+  * **[Manim](https://github.com/3b1b/manim)**: Animation engine for explanatory math videos.
 
 </details>
 
