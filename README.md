@@ -11,20 +11,20 @@
 [![Tai's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tai&layout=compact)](https://wakatime.com/@tai)
 
 
-## Tools
+## Tools I use
 
 <details>
   <summary>🔍</summary>
 
 ### Hardware
 
-* **MacBook Pro (13-inch, 2019)**
+* **MacBook Pro (13-inch, 2019, Intel i5)**
 * **Raspberry Pi 3 Model B+**
 
 ### Life
 
 * **[Home Assistant](https://github.com/home-assistant/core)**: 🏡 Open source home automation that puts local control and privacy first.
-  * **[Xiaomi MIoT for Home Assistant](https://github.com/ha0y/xiaomi_miot_raw)**: Universal Xiaomi MIoT integration for Home Assistant.
+  * **[Xiaomi Miot For HomeAssistant](https://github.com/al-one/hass-xiaomi-miot)**: Automatic integrate all Xiaomi devices to HomeAssistant via miot-spec, support Wi-Fi, BLE, ZigBee devices. 小米米家智能家居设备接入Hass集成
 * **Fonts**
   * **[Source Han Sans](https://github.com/adobe-fonts/source-han-sans)**: Source Han Sans is a set of OpenType/CFF Pan-CJK fonts.
   * **[Source Han Serif](https://github.com/adobe-fonts/source-han-serif)**: Source Han Serif is a set of OpenType/CFF Pan-CJK fonts.
@@ -39,6 +39,7 @@
 * **[Hidden Bar](https://github.com/dwarvesf/hidden)**: An ultra-light MacOS utility that helps hide menu bar icons.
 * **[Tampermonkey](https://github.com/Tampermonkey/tampermonkey)**: The most popular userscript manager, with over 10 million users.
 * **[aria2](https://github.com/aria2/aria2)**: aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+  * **[Motrix](https://github.com/agalwood/Motrix)**: A full-featured download manager.
 * **[SwitchHosts](https://github.com/oldj/SwitchHosts)**: SwitchHosts is an App for managing hosts file, it is based on Electron , React, UmiJS , Chakra UI, CodeMirror, etc.
 * **[Mos](https://github.com/Caldis/Mos)**: A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS.
 * **[Barrier](https://github.com/debauchee/barrier)**: Open-source KVM software.
