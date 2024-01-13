@@ -1,6 +1,6 @@
 ## 👋 Hi I'm Tai Zhou
 
-[![wakatime](https://wakatime.com/badge/user/9d0cf55e-5b6e-4078-b307-e95402afaf95.svg)](https://wakatime.com/@tai) [![leetcode](https://badges.peiyuan.ch/leetcode/tai-zhou/ranking?logo=leetcode&logoColor=white)](https://leetcode.com/tai-zhou/)
+[![wakatime](https://wakatime.com/badge/user/9d0cf55e-5b6e-4078-b307-e95402afaf95.svg)](https://wakatime.com/@tai) [![leetcode](https://img.shields.io/badge/dynamic/json?labelColor=black&logo=leetcode&color=%23ffa116&label=LeetCode&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftai-zhou)](https://leetcode.com/tai-zhou/)
 
 * 👨🏻‍🎓 Studying Astrophysics 🔭
 * 🧐 Webpage version of [astrolator](https://github.com/Tai-Zhou/astrolator) in progress (`mkdir` finished).
