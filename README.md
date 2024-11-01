@@ -1,4 +1,4 @@
-## 👋 Hi I'm Tai Zhou
+## 👋🏼 Hi I'm Tai Zhou
 
 [![wakatime](https://wakatime.com/badge/user/9d0cf55e-5b6e-4078-b307-e95402afaf95.svg)](https://wakatime.com/@tai) [![leetcode](https://img.shields.io/badge/dynamic/json?labelColor=black&logo=leetcode&color=%23ffa116&label=LeetCode&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftai-zhou)](https://leetcode.com/tai-zhou/)
 
@@ -36,16 +36,13 @@
 * **[Tampermonkey](https://github.com/Tampermonkey/tampermonkey)**: The most popular userscript manager, with over 10 million users.
 * **[aria2](https://github.com/aria2/aria2)**: aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
   * **[Motrix](https://github.com/agalwood/Motrix)**: A full-featured download manager.
-* **[SwitchHosts](https://github.com/oldj/SwitchHosts)**: SwitchHosts is an App for managing hosts file, it is based on Electron , React, UmiJS , Chakra UI, CodeMirror, etc.
-* **[Barrier](https://github.com/debauchee/barrier)**: Open-source KVM software.
 
 #### macOS
 
 * **[Homebrew](https://github.com/Homebrew)**: 🍺 The missing package manager for macOS (or Linux).
-* **[Stats](https://github.com/exelban/stats)**: macOS system monitor in your menu bar.
 * **[Raycast](https://www.raycast.com)**: Raycast is a blazingly fast, totally extendable launcher. It lets you complete tasks, calculate, share common links, and much more.
-* **[Hidden Bar](https://github.com/dwarvesf/hidden)**: An ultra-light MacOS utility that helps hide menu bar icons.
-* **[Mos](https://github.com/Caldis/Mos)**: A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS.
+* **[Stats](https://github.com/exelban/stats)**: macOS system monitor in your menu bar.
+* **[LinearMouse](https://github.com/linearmouse/linearmouse):** The mouse and trackpad utility for Mac.
 * **[MonitorControl](https://github.com/MonitorControl/MonitorControl)**: 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 * **[IINA](https://github.com/iina/iina)**: The modern video player for macOS.
 
@@ -57,15 +54,12 @@
 * **[Zotero](https://github.com/zotero/zotero)**: Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.
 * **[MacTeX](https://www.tug.org/mactex)**: TeX Live is intended to be a straightforward way to get up and running with the TeX document production system.
   * **[TeX Live Utility](https://github.com/amaxwell/tlutility)**: TeX Live Utility, a Mac OS GUI for the TeX Live Manager.
-* **[Inkscape](https://gitlab.com/inkscape/inkscape)**: Free and Open Source Vector Drawing.
 
 ### Programming
 
 #### [VS Code](https://github.com/microsoft/vscode): Free. Built on open source. Runs everywhere.
 
-* **[C/C++](https://github.com/Microsoft/vscode-cpptools)**: Official repository for the Microsoft C/C++ extension for VS Code.
 * **[Doxygen Documentation Generator](https://github.com/cschlosser/doxdocgen)**: Generate doxygen documentation from source code in VS Code.
-* **[CMake Tools](https://github.com/microsoft/vscode-cmake-tools)**: CMake integration in Visual Studio Code.
 * **[LaTeX Workshop](https://github.com/James-Yu/LaTeX-Workshop)**: Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 * **[Markdown All in One](https://github.com/yzhang-gh/vscode-markdown)**: Markdown All in One.
 * **[Todo Tree](https://github.com/Gruntfuggly/todo-tree)**: Use ripgrep to find TODO tags and display the results in a tree view.
@@ -78,9 +72,6 @@
 
 #### [Python](https://github.com/python/cpython)
 
-  * **[pip](https://github.com/pypa/pip)**: The Python package installer.
-  * **[Jupyter Notebook](https://github.com/jupyter/notebook)**: Jupyter Interactive Notebook.
-  * **[JupyterLab](https://github.com/jupyterlab/jupyterlab)**: JupyterLab computational environment.
   * **[NumPy](https://github.com/numpy/numpy)**: The fundamental package for scientific computing with Python.
   * **[plotly.py](https://github.com/plotly/plotly.py)**: The interactive graphing library for Python (includes Plotly Express) ✨
   * **[matplotlib](https://github.com/matplotlib/matplotlib)**: Plotting with Python.
